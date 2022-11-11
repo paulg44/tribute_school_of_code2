@@ -1,1 +1,21 @@
 /* Copy and paste your CSS from CodePen into here */
+main {
+  text-align: center;
+  background-color: light grey;
+}
+h1 {
+  font-size: 50px;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  width: 75%;
+}
+ul {
+  display: inline-block;
+}
+li {
+  text-align: left;
+}
